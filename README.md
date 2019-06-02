@@ -49,7 +49,7 @@ Link local dependency<br />
 `npm link @openworklabs/aragon-profile`
 
 start the app: <br />
-`npm start:with:profiles`
+`npm run start:with:profiles`
 
 Navigate to `http://localhost:3000/` and create an organization on rinkeby. Once on your organization, you have to manually navigate to profiles via the url bar:<br />
 
